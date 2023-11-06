@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background_login2 {
+    height: 100vh;
+    background: linear-gradient(180deg, rgb(33, 23, 175) 40%, rgb(15, 15, 15) 99%);  
+}
